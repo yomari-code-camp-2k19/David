@@ -1,0 +1,16 @@
+*.wav
+/config.py
+/config.json
+*.log
+test_cache
+__pycache__
+*.pyc
+model.zip
+keras.h5
+test
+bot
+data/audios
+intent_cache
+/server/config.py
+
+

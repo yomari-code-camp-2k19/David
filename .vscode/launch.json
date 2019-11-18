@@ -1,0 +1,12 @@
+{
+    "version": "0.0.1",
+    "configurations": [
+        {
+            "type": "python",
+            "request": "launch",
+            "name": "David",
+            "program": "${workspaceRoot}/launch.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+(hello | hi | hey | what\'s up) {name} (what\'s up ({name} | ) | )
