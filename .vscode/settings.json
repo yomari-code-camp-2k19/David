@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/anujkarn002/ak/bin/python3",
+    "python.pythonPath": "~/ak/bin/python3",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
     
